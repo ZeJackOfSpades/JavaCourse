@@ -36,11 +36,12 @@ réalisées uniquement via les méthodes visibles des Objets en question.
 #####	a. A quoi sert le compilateur Java ?
 #####	b. A quoi sert l’interpréteur ?
 > * Le langage Java est un langage semi interprété.
-Les sources sont compilés en byte code
-=> javac présent dans le JDK
-Le byte code est interprété et executé par la JVM.
-=> Java Virtual Machine présent à la fois dans
-le JRE et le JDK
+> Les sources sont compilés en byte code
+> => javac présent dans le JDK
+
+> * Le byte code est interprété et executé par la JVM.
+> => Java Virtual Machine présent à la fois dans
+> le JRE et le JDK
 
 ### 6. Donnez la définition d’une classe
 > Une Classe en langage Java, est donc la définition d'un type
