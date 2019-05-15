@@ -63,8 +63,10 @@ courante de la classe elle-même.
 ### 9. Ecrivez votre propre application qui affichera le texte suivant : « Hello World ! <Votre Nom> ».
 
 ```java
-public static void main ( String[] args ) { 
-	System.out.println("Hello World ! Jacques");
+public class monTest{
+	public static void main ( String[] args ) { 
+		System.out.println("Hello World ! Jacques");
+	}
 }
 ```
 
