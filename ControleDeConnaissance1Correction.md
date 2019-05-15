@@ -23,9 +23,7 @@ règles suivantes :
 > 4. Tous les types prédéfinis sont des Objets
 > 5. Tous les types définis par l’utilisateur sont objets
 > 6. Toutes les opérations effectuées sur des Objets doivent être
-réalisées uniquement via les méthodes visibles des Objets en
-13/184
-question.
+réalisées uniquement via les méthodes visibles des Objets en question.
 
 
 ### 4. Est-ce que Java est un LOO pur ? Expliquez pourquoi
