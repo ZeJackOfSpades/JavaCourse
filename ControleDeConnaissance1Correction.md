@@ -30,10 +30,9 @@ question.
 
 ### 4. Est-ce que Java est un LOO pur ? Expliquez pourquoi
 > Tout est-il vraiment instance de classe ?
-* Il existe des types primitifs,
-* et aussi des méthodes et membres de classes
-statiques.
-Java n'est donc pas un LOO Pur.
+> * Il existe des types primitifs,
+> * et aussi des méthodes et membres de classes statiques.
+> Java n'est donc pas un LOO Pur.
 
 ### 5. Expliquez le concept du « write once, run everywhere » :
 #####	a. A quoi sert le compilateur Java ?
@@ -46,7 +45,7 @@ Le byte code est interprété et executé par la JVM.
 le JRE et le JDK
 
 ### 6. Donnez la définition d’une classe
-> Une Classe en langage J ava, est donc la définition d'un type
+> Une Classe en langage Java, est donc la définition d'un type
 d'objet. Cette définition se fait au travers de la création d'un fichier
 « .java » compilé en « .class ».
 Des classes peuvent être considérées comme des types
