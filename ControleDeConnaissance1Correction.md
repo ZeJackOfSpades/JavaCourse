@@ -60,7 +60,7 @@ l'initialisation.
 > * « this » : désigne, dans une classe, l'instance
 courante de la classe elle-même.
 
-### 9. Ecrivez votre propre application qui affichera le texte suivant : « Hello World ! <Votre Nom> ».
+### 9. Ecrivez votre propre application qui affichera le texte suivant : « Hello World ! (Votre Nom) ».
 
 ```java
 public class monTest{
